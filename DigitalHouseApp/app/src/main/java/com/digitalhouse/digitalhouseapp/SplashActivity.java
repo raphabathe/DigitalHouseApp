@@ -20,8 +20,7 @@ public class SplashActivity extends AppCompatActivity {
                 irParaLogin();
 
             }
-        },3000);
-
+        }, 3000);
     }
 
     public void irParaLogin(){
